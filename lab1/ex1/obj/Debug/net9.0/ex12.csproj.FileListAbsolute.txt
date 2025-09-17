@@ -1,0 +1,15 @@
+/home/nikifri_niki/31progmod1/lab1/ex1/obj/Debug/net9.0/ex12.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikifri_niki/31progmod1/lab1/ex1/obj/Debug/net9.0/ex12.AssemblyInfoInputs.cache
+/home/nikifri_niki/31progmod1/lab1/ex1/obj/Debug/net9.0/ex12.AssemblyInfo.cs
+/home/nikifri_niki/31progmod1/lab1/ex1/obj/Debug/net9.0/ex12.csproj.CoreCompileInputs.cache
+/home/nikifri_niki/31progmod1/lab1/ex1/obj/Debug/net9.0/ex12.sourcelink.json
+/home/nikifri_niki/31progmod1/lab1/ex1/bin/Debug/net9.0/ex12
+/home/nikifri_niki/31progmod1/lab1/ex1/bin/Debug/net9.0/ex12.deps.json
+/home/nikifri_niki/31progmod1/lab1/ex1/bin/Debug/net9.0/ex12.runtimeconfig.json
+/home/nikifri_niki/31progmod1/lab1/ex1/bin/Debug/net9.0/ex12.dll
+/home/nikifri_niki/31progmod1/lab1/ex1/bin/Debug/net9.0/ex12.pdb
+/home/nikifri_niki/31progmod1/lab1/ex1/obj/Debug/net9.0/ex12.dll
+/home/nikifri_niki/31progmod1/lab1/ex1/obj/Debug/net9.0/refint/ex12.dll
+/home/nikifri_niki/31progmod1/lab1/ex1/obj/Debug/net9.0/ex12.pdb
+/home/nikifri_niki/31progmod1/lab1/ex1/obj/Debug/net9.0/ex12.genruntimeconfig.cache
+/home/nikifri_niki/31progmod1/lab1/ex1/obj/Debug/net9.0/ref/ex12.dll

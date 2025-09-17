@@ -1,0 +1,15 @@
+/home/nikifri_niki/31progmod1/lab1/ex3/bin/Debug/net9.0/ex3
+/home/nikifri_niki/31progmod1/lab1/ex3/bin/Debug/net9.0/ex3.deps.json
+/home/nikifri_niki/31progmod1/lab1/ex3/bin/Debug/net9.0/ex3.runtimeconfig.json
+/home/nikifri_niki/31progmod1/lab1/ex3/bin/Debug/net9.0/ex3.dll
+/home/nikifri_niki/31progmod1/lab1/ex3/bin/Debug/net9.0/ex3.pdb
+/home/nikifri_niki/31progmod1/lab1/ex3/obj/Debug/net9.0/ex3.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikifri_niki/31progmod1/lab1/ex3/obj/Debug/net9.0/ex3.AssemblyInfoInputs.cache
+/home/nikifri_niki/31progmod1/lab1/ex3/obj/Debug/net9.0/ex3.AssemblyInfo.cs
+/home/nikifri_niki/31progmod1/lab1/ex3/obj/Debug/net9.0/ex3.csproj.CoreCompileInputs.cache
+/home/nikifri_niki/31progmod1/lab1/ex3/obj/Debug/net9.0/ex3.sourcelink.json
+/home/nikifri_niki/31progmod1/lab1/ex3/obj/Debug/net9.0/ex3.dll
+/home/nikifri_niki/31progmod1/lab1/ex3/obj/Debug/net9.0/refint/ex3.dll
+/home/nikifri_niki/31progmod1/lab1/ex3/obj/Debug/net9.0/ex3.pdb
+/home/nikifri_niki/31progmod1/lab1/ex3/obj/Debug/net9.0/ex3.genruntimeconfig.cache
+/home/nikifri_niki/31progmod1/lab1/ex3/obj/Debug/net9.0/ref/ex3.dll
