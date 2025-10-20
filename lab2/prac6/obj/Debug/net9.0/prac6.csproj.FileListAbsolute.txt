@@ -1,0 +1,15 @@
+/home/nikifri_niki/31progmod1/lab2/prac6/bin/Debug/net9.0/prac6
+/home/nikifri_niki/31progmod1/lab2/prac6/bin/Debug/net9.0/prac6.deps.json
+/home/nikifri_niki/31progmod1/lab2/prac6/bin/Debug/net9.0/prac6.runtimeconfig.json
+/home/nikifri_niki/31progmod1/lab2/prac6/bin/Debug/net9.0/prac6.dll
+/home/nikifri_niki/31progmod1/lab2/prac6/bin/Debug/net9.0/prac6.pdb
+/home/nikifri_niki/31progmod1/lab2/prac6/obj/Debug/net9.0/prac6.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikifri_niki/31progmod1/lab2/prac6/obj/Debug/net9.0/prac6.AssemblyInfoInputs.cache
+/home/nikifri_niki/31progmod1/lab2/prac6/obj/Debug/net9.0/prac6.AssemblyInfo.cs
+/home/nikifri_niki/31progmod1/lab2/prac6/obj/Debug/net9.0/prac6.csproj.CoreCompileInputs.cache
+/home/nikifri_niki/31progmod1/lab2/prac6/obj/Debug/net9.0/prac6.sourcelink.json
+/home/nikifri_niki/31progmod1/lab2/prac6/obj/Debug/net9.0/prac6.dll
+/home/nikifri_niki/31progmod1/lab2/prac6/obj/Debug/net9.0/refint/prac6.dll
+/home/nikifri_niki/31progmod1/lab2/prac6/obj/Debug/net9.0/prac6.pdb
+/home/nikifri_niki/31progmod1/lab2/prac6/obj/Debug/net9.0/prac6.genruntimeconfig.cache
+/home/nikifri_niki/31progmod1/lab2/prac6/obj/Debug/net9.0/ref/prac6.dll

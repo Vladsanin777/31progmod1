@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AVIWo8qd4MY=",
+  "success": true,
+  "projectFilePath": "/home/nikifri_niki/31progmod1/lab2/prac6/prac6.csproj",
+  "expectedPackageFiles": [
+    "/home/nikifri_niki/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.8/microsoft.aspnetcore.app.ref.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
